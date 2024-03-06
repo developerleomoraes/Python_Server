@@ -1,0 +1,66 @@
+{
+    "Data": "2024-02-29T00:00:00-03:00",
+    "sudesteECentroOeste": {
+      "geracao": {
+        "total": 0,
+        "hidraulica": 33204.1563,
+        "termica": 2206.66138,
+        "eolica": 0,
+        "nuclear": 1858.063,
+        "solar": 0,
+        "itaipu50HzBrasil": 1410.52356,
+        "itaipu60Hz": 3744.1
+      },
+      "cargaVerificada": 49140.9961,
+      "importacao": 3965.97339,
+      "exportacao": 1499.52563
+    },
+    "sul": {
+      "geracao": {
+        "total": 0,
+        "hidraulica": 13063.0068,
+        "termica": 1065.12891,
+        "eolica": 94.57558,
+        "nuclear": 0,
+        "solar": 0
+      },
+      "cargaVerificada": 15070.3682,
+      "importacao": 712.572632,
+      "exportacao": 855.0006
+    },
+    "nordeste": {
+      "geracao": {
+        "total": 0,
+        "hidraulica": 4668.24561,
+        "termica": 426.9343,
+        "eolica": 1927.92053,
+        "nuclear": 0,
+        "solar": 2904.61987
+      },
+      "cargaVerificada": 12974.6484,
+      "importacao": 3084.473,
+      "exportacao": 39.5094261
+    },
+    "norte": {
+      "geracao": {
+        "total": 0,
+        "hidraulica": 11423.1133,
+        "termica": 912.0002,
+        "eolica": 5.59181452,
+        "nuclear": 0,
+        "solar": 0
+      },
+      "cargaVerificada": 7183.283,
+      "importacao": 0,
+      "exportacao": 5370.511
+    },
+    "internacional": null,
+    "intercambio": {
+      "internacional_sul": -1.52798259,
+      "sul_sudeste": 140.899979,
+      "sudeste_nordeste": 775.7027,
+      "sudeste_norteFic": -3101.25049,
+      "norte_norteFic": 5370.511,
+      "norteFic_nordeste": 2269.26074
+    }
+  }
